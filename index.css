@@ -1,0 +1,88 @@
+body {
+    width: 1440px;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.tete {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.tete div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200px;
+    font-weight: 700;
+}
+
+.fourE span {
+    font-size: 500px;
+    opacity: 0.5;
+    color: rgb(238, 174, 202);
+    color: radial-gradient(190deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+.four span {
+    font-size: 500px;
+    opacity: 0.5;
+    color: rgb(238, 174, 202);
+    color: radial-gradient(190deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+
+}
+
+.fourA {
+    margin-top: 4rem;
+    border-radius: 50%;
+    width: 200px;
+    height: 325px;
+    border: 18px solid rgb(238, 174, 202);
+}
+
+.fourA img {
+    border-radius: 50%;
+    width: 200px;
+    height: 325px;
+}
+
+.paragraphe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+
+    color: blueviolet;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+}
+.lorem{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+    font-weight: 600;
+    opacity: 0.5;
+  height: 60px;
+}
+.retour span p {
+    text-decoration: underline;
+    padding-left: 5px;
+    width: 200px;
+    margin: 0;
+    color: rgb(238, 174, 202);
+}
+.retour{
+    margin-top:30px;
+    display: flex;
+   
+}

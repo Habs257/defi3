@@ -1,0 +1,124 @@
+.iconna{
+    width: 500px;
+    height: 367px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconna span{
+    margin-top: 30px;
+    font-size: 40px;
+font-weight: 800;
+}
+ .fav{
+    padding-left: 10px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gros{
+    background-image: url(images/MohBad.webp);
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
+}
+span{
+width: 90px;
+}
+.lecture{
+    width: 500px;
+    height: 20px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin-top: 8px;
+}
+.cou{
+    width: 190px;
+    height: 20px;
+    background-color: gray;
+    border-radius: 20px;
+}
+.minute{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+.deux{
+    display: flex;
+    justify-content: end;
+}
+.iiii{
+    background-color: bisque;
+    width: 25px;
+}
+.para{
+    display: flex;
+    gap: 20px;
+}
+.some{
+    width: 90px;
+    border-radius: 5px;
+    height: 10px;
+    background-color: antiquewhite;
+}
+.haha{
+    width: 70px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.volume{
+    align-items: center;
+    justify-content: end;
+    display: flex;
+    width: 390px;
+}
+.volume span{
+    width: 32px;
+    height: 32px;
+    margin-right: 4px;
+    border-radius: 8px;
+    background-color: bisque;
+}
+.morceau{
+    margin: 5px;
+    border-radius: 20px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 250px;
+    border-color: white;
+}
+.imas{
+    margin: 8px;
+    border-radius: 10px;
+    width: 90px;
+    height: 90px;
+}
+.long{
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 13.5rem;
+    width: 300px;
+    height:700px ;
+}
+h1{
+    font-size: 20px;
+}
+h3{
+    font-size: 14px;
+}
+.first{
+    margin: 5px;
+    border-radius: 20px;
+    background: rgb(66,4,236);
+    background: linear-gradient(90deg, rgba(66,4,236,1) 40%, rgba(229,238,6,1) 60%);
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 250px;
+    border-color: white;  
+}

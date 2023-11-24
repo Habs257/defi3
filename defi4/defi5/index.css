@@ -1,0 +1,58 @@
+.first{
+    width: 400px;
+    height: 250px;
+    background-color: #e1e1e1;
+    border-radius: 10px;
+}
+main div{
+    height: 58.5vh;
+margin: auto;
+    gap: 70px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+footer{  
+    justify-content: space-between;
+display: flex;
+    height: 40vh;
+    width: 100%;
+background-color: red;
+}
+span{
+    color: blue;
+}
+h3{
+    color: white;
+    font-size: 10px;
+}
+.trois div{
+    margin-bottom: 15px;
+}
+footer .un , .deux , .quatre{
+    margin: auto;
+    margin-top: 30px;
+}
+.maison{
+    margin-top: 30px;
+}
+.trios span{
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+}
+.icon{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 30px;
+    width: 30px;
+}

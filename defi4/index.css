@@ -1,0 +1,88 @@
+body{
+    background: rgb(50,236,4);
+background: linear-gradient(90deg, rgba(50,236,4,1) 50%, rgb(255,165,0) 50%);
+    height: 100vh;
+margin: auto;
+display: flex;
+}
+main{
+    background-color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.all{
+    width: 68.7rem;
+    height: 85.4vh;
+}
+.image{
+    position: relative;
+    width: 300px;
+    height: 150px;
+}
+.image img{
+    border-radius: 10px;
+}
+.second, .image img{
+width: 400px;
+height: 220px;
+}
+.PREM{
+   margin-bottom: 15rem;
+    display: flex;
+   
+}
+.first{
+
+}
+.second{
+   margin-left: 20rem;
+}
+.troix{
+
+}
+.quatre{
+    margin-left: 20rem;
+}
+.DEU{
+    display: flex;
+
+}
+p{
+    width: 400px;
+    justify-content: center;
+    text-align: center;
+}
+div.ecrit{
+    position: absolute;
+    height: 220px;
+    margin-left: 5rem;
+    border-radius: 10px;
+    width: 400px;
+    background-color: orange;
+}
+div .DEU{
+  margin-bottom: 10rem;
+}
+span{
+    display: flex;
+    justify-content: end;
+    text-decoration: underline;
+}
+h3{
+    padding-left: 8px;
+    font-size: 20px;
+    color: rgb(97,169,100);
+    font-weight: 600;
+}
+.disque{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 31rem;
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: orange;
+}
